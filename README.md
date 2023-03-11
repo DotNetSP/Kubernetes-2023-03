@@ -15,8 +15,8 @@ Apresentações que aconteceram durante o evento:
 
 Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/), a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](hhttps://suicobrasileira.sp.senai.br/) e a [**Michael Page**](https://www.michaelpage.com.br/).
 
-Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/azure-weekend-2022-campinas-sp-presencial-e-gratuito/1766575)
+Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/kubernetes-de-ponta-a-ponta-do-pod-ao-deployment-automatizado-gratuito-e-presencial/1876047)
 
-Local: Auditório da Venturus - Estrada Giuseppina Vianelli di Napolli, 1185 - Polo II de Alta Tecnologia - Campinas - SP - CEP: 13086-530
+Local: Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de Andrade Filho, 379 - Santo Amaro - São Paulo/SP - CEP 04757-000
 
 ![Banner do evento](img/kubernetes-2023-03.jfif)
