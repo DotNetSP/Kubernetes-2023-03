@@ -20,3 +20,7 @@ Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/
 Local: Escola SENAI Suíço-Brasileira Paulo Ernesto Tolle - Rua Bento Branco de Andrade Filho, 379 - Santo Amaro - São Paulo/SP - CEP 04757-000
 
 ![Banner do evento](img/kubernetes-2023-03.jfif)
+
+![Renato palestrando](img/photo_4918203103061323637_y.jpg)
+
+![Eduardo palestrando](img/photo_4918203103061323641_y.jpg)
