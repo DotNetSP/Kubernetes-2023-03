@@ -11,7 +11,7 @@ Número de participantes: **30 pessoas**
 Apresentações que aconteceram durante o evento:
 * Uma perspectiva de mercado para Tech - Eduardo Hilpert (Michael Page)
 
-* Kubernetes: uma visão geral - Do Pod ao Deployment - Renato Groffe (Microsoft MVP, MTAC)
+* Kubernetes: uma visão geral - Do Pod ao Deployment - Renato Groffe (Microsoft MVP, MTAC) - clique [**aqui**](https://github.com/renatogroffe/Kubernetes-Liveness-Secret-ConfigMap-KEDA_Cron) para acessar o repositório com os exemplos
 
 Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/), a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/) e a [**Michael Page**](https://www.michaelpage.com.br/).
 
