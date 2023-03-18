@@ -13,6 +13,8 @@ Apresentações que aconteceram durante o evento:
 
 * Kubernetes: uma visão geral - Do Pod ao Deployment - Renato Groffe (Microsoft MVP, MTAC) - clique [**aqui**](https://github.com/renatogroffe/Kubernetes-Liveness-Secret-ConfigMap-KEDA_Cron) para acessar o repositório com os exemplos
 
+Tecnologias abordadas: **Kubernetes, Azure Kubernetes Service, Azure Container Apps, Visual Studio Code, ASP.NET Core, .NET 7, Azure DevOps, GitHub Actions**
+
 Este evento foi uma parceria entre a comunidade [**.NET SP**](https://www.meetup.com/dotnet-Sao-Paulo/), a [**Escola Senai Suíço-Brasileira Paulo Ernesto Tolle**](https://suicobrasileira.sp.senai.br/) e a [**Michael Page**](https://www.michaelpage.com.br/).
 
 Formulário utilizado para inscrições: [**Sympla**](https://www.sympla.com.br/evento/kubernetes-de-ponta-a-ponta-do-pod-ao-deployment-automatizado-gratuito-e-presencial/1876047)
